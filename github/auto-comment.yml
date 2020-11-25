@@ -1,0 +1,2 @@
+pullRequestOpened: >
+  This is a gental reminder to run all the tests and make sure no new issues are introduced by this PR.
